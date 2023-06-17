@@ -19,7 +19,9 @@ export default class Home extends Component {
                             <Card.Text>
                                 Это наш самый главный разработчик. Он крутой.
                             </Card.Text>
-                            <Button variant="primary">About team</Button>
+                           <div id="browse_app">
+                                <a class="btn btn-large btn-info" href="https://www.youtube.com/">Browse</a>
+                            </div>
                         </Card.Body>
                     </Card>
                     <Card className="p-3">
@@ -31,7 +33,9 @@ export default class Home extends Component {
                             <Card.Text>
                                 Это наш самый главный разработчик. Он крутой.
                             </Card.Text>
-                            <Button variant="primary">About team</Button>
+                            <div id="browse_app">
+                                <a class="btn btn-large btn-info" href="https://www.youtube.com/">Browse</a>
+                            </div>
                         </Card.Body>
                     </Card>
                     <Card className="p-3">
@@ -43,7 +47,9 @@ export default class Home extends Component {
                             <Card.Text>
                                 Это наш самый главный разработчик. Он крутой.
                             </Card.Text>
-                            <Button variant="primary">About team</Button>
+                           <div id="browse_app">
+                                <a class="btn btn-large btn-info" href="https://www.youtube.com/">Browse</a>
+                            </div>
                         </Card.Body>
                     </Card>
                 </CardGroup>
