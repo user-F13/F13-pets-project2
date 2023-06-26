@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Carousel from 'react-bootstrap/Carousel';
-import bird from '../assets/bird.png';
+import bird from '../assets/bird.jpg';
 import parrot from '../assets/parrot.jpg';
 import sheep from '../assets/sheep.jpg';
 
