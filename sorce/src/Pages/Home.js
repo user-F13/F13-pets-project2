@@ -20,7 +20,7 @@ export default class Home extends Component {
                                     Спокойный и добрый котик
                                 </Card.Text>
                                 <div id="browse_app">
-                                    <a class="btn btn-large btn-info" href="https://www.youtube.com/">Приютить</a>
+                                    <a class="btn btn-large btn-info" href="http://localhost:3000/about">Приютить</a>
                                 </div>
                             </Card.Body>
                         </Card>
@@ -31,10 +31,10 @@ export default class Home extends Component {
                             <Card.Body>
                                 <Card.Title>Лакки</Card.Title>
                                 <Card.Text>
-                                    Очень дружелюбный и любит детей
+                                   Дружелюбный и любит детей
                                 </Card.Text>
                                 <div id="browse_app">
-                                    <a class="btn btn-large btn-info" href="https://www.youtube.com/">Приютить</a>
+                                    <a class="btn btn-large btn-info" href="http://localhost:3000/about">Приютить</a>
                                 </div>
                             </Card.Body>
                         </Card>
@@ -45,10 +45,10 @@ export default class Home extends Component {
                             <Card.Body>
                                 <Card.Title>Рекс</Card.Title>
                                 <Card.Text>
-                                    Активный, любит игры на свежем воздухе
+                                    Активный, любит прогулки
                                 </Card.Text>
                                 <div id="browse_app">
-                                    <a class="btn btn-large btn-info" href="https://www.youtube.com/">Приютить</a>
+                                    <a class="btn btn-large btn-info" href="http://localhost:3000/about">Приютить</a>
                                 </div>
                             </Card.Body>
                         </Card>
@@ -63,7 +63,7 @@ export default class Home extends Component {
                                     Грациозная и изящная кошечка
                                 </Card.Text>
                                 <div id="browse_app">
-                                    <a class="btn btn-large btn-info" href="https://www.youtube.com/">Приютить</a>
+                                    <a class="btn btn-large btn-info" href="http://localhost:3000/about">Приютить</a>
                                 </div>
                             </Card.Body>
                         </Card>
@@ -75,10 +75,10 @@ export default class Home extends Component {
                             <Card.Body>
                                 <Card.Title>Бобик</Card.Title>
                                 <Card.Text>
-                                    Немного неуклюжий, зато очень любвеобильный
+                                    Неуклюжий, но любвеобильный
                                 </Card.Text>
                                 <div id="browse_app">
-                                    <a class="btn btn-large btn-info" href="https://www.youtube.com/">Приютить</a>
+                                    <a class="btn btn-large btn-info" href="http://localhost:3000/about">Приютить</a>
                                 </div>
                             </Card.Body>
                         </Card>
@@ -89,3 +89,4 @@ export default class Home extends Component {
         )
     }
 }
+
