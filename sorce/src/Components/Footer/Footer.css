@@ -1,0 +1,6 @@
+.footer {
+    background-color: coral;
+    grid-area: footer;
+    height: 5vh;
+
+}
