@@ -4,30 +4,30 @@ import React, { Component } from 'react'
 export default class Blog extends Component {
     render() {
         return (
-            <div>
+            <div class="container px-4">
                 <p><h2>3 марта мы приютили взрослого и красивого кота</h2></p>
                     <p>Наша команда нашла его после очевидной драки с другими животными. Мы взяли его к себе, вылечили решили оставить.</p>
                     <p> Посовещавшись с коллегами, было принято решение назвать его Маркиз, и с тех пор он живёт в нашем приюте и охраняет нас.</p>
 
-                <img height="500" width="500" src="https://sun9-43.userapi.com/impg/ZQYFMapmvIk-9ZSGC8S3dzsP_wh9TG8VL-8TXQ/EzWDuY3DQkY.jpg?size=1017x776&quality=96&sign=b6b37e6b035abf2691a10a4c5a4ce143&type=album" alt="Хрю"/>
+                <img height="388" width="509" src="https://sun9-43.userapi.com/impg/ZQYFMapmvIk-9ZSGC8S3dzsP_wh9TG8VL-8TXQ/EzWDuY3DQkY.jpg?size=1017x776&quality=96&sign=b6b37e6b035abf2691a10a4c5a4ce143&type=album" alt="Хрю"/>
                 <p></p>
                <p><h2>14 апреля мы разместили на нашем сайте объявление о пропаже собаки.</h2> </p>
                     <p>К нам обратился хозяин корги, по кличке Джейми.  Пëс убежал от хозяина во время прогулки и не вернулся. Хозяин очень переживал об утрате питомца, но через 3 дня,  17 августа, к нам пришла женщина и сообщила о том, что нашла Джейми.</p>
                     <p>Мы с удовольствием взяли его, после чего сообщили о находке песика его хозяину. </p>
 
-                <img src="https://sun9-45.userapi.com/impg/fKP6bLQ9Zwxv1GtvYjQoUYrUuPOXjh95QkzTuA/hgFy2tz4n9Q.jpg?size=571x719&quality=96&sign=20d4933569e418571b2a6adea817fd8b&type=album" alt="n2"/>
+                <img height="600" width="509" src="https://sun9-45.userapi.com/impg/fKP6bLQ9Zwxv1GtvYjQoUYrUuPOXjh95QkzTuA/hgFy2tz4n9Q.jpg?size=571x719&quality=96&sign=20d4933569e418571b2a6adea817fd8b&type=album" alt="n2"/>
                 <p></p>
                 <p><h2>Несколько дней назад мы нашли 2 котят, которых выбросили на улицу в холодное время года.</h2></p>
                     <p>Они ещё совсем маленькие, мы определили ,что около 2 месяцев. </p>
                     <p>Наши волонтёры и ветеринары не смогли остаться в стороне и не помочь малышам. К сожалению,   люди, когда решают завести питомца, не воспринимают его как члена семьи и с лёгкостью могут избавиться от маленького котёнка или щенка.</p>
                     <p>Именно поэтому наш приют, в котором работает квалифицированный персонал, помогает животным на безвозмездной основе.</p>
 
-                <img src="https://sun9-24.userapi.com/impg/T3t9-5FAgefOO_4oUJxWEHuSC2nRfPR4NJFaqA/pkdcgkXjs_Q.jpg?size=978x509&quality=96&sign=b1eddeecd7c8bd73ae7a40b503b31fbd&type=album" alt="n3"/>
+                <img height="300" width="509" src="https://sun9-24.userapi.com/impg/T3t9-5FAgefOO_4oUJxWEHuSC2nRfPR4NJFaqA/pkdcgkXjs_Q.jpg?size=978x509&quality=96&sign=b1eddeecd7c8bd73ae7a40b503b31fbd&type=album" alt="n3"/>
                 <p></p>
                  <p><h2>Каждое второе воскресенье месяца  мы проводим день животных.</h2> </p>
                     <p>У Вас  есть возможность записаться  на бесплатный и качественный приём, на котором мы проверим здоровье вашего любимца,  предоставим рекомендации и при необходимости проведём подробное обследование.</p>
 
-                <img src="https://sun9-16.userapi.com/impg/NaLhz3BPQfmG0O1nu_L1fu2Yg8lxg6m46ANw1g/aAaY9MY4iv4.jpg?size=723x452&quality=96&sign=e6e90323d35beeac0d40ea334ee8394b&type=album" alt="n4"/>
+                <img height="388" width="509" src="https://sun9-16.userapi.com/impg/NaLhz3BPQfmG0O1nu_L1fu2Yg8lxg6m46ANw1g/aAaY9MY4iv4.jpg?size=723x452&quality=96&sign=e6e90323d35beeac0d40ea334ee8394b&type=album" alt="n4"/>
 <p></p>
                <p><h2>Наш приют проводит сбор пожертвований для бездомных животных!</h2></p>
                     <p>Все желающие могут внести свой вклад в это благородное дело и спасти котёнка или щенка.</p>
